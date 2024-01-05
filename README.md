@@ -19,7 +19,7 @@
 </html>
 
 --------------------------------------------------------------------------
-##Receitas
+## Receitas
 
 - [Pão Caseiro](recipes/pao-caseiro.md)
 - [Pão de Queijo Mineiro](recipes/pao-de-queijo-mineiro.md)
