@@ -1,8 +1,24 @@
----
-title: Pão Caseiro
----
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Bege</title>
+    <style>
+        body {
+            background-color: beige;
+        }
+    </style>
+</head>
+<body>
 
+</body>
+</html>
+
+
+-------------------------------------------------------------------------
 # Pão Caseiro
+-------------------------------------------------------------------------
 
 ## Ingredientes
 
@@ -22,4 +38,3 @@ title: Pão Caseiro
 5. Pré-aqueça o forno a 180°C. Asse o pão por 25-30 minutos ou até dourar.
 6. Deixe esfriar antes de fatiar.
 
-Aproveite o seu pão caseiro!
